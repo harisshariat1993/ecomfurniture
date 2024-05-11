@@ -1,0 +1,26 @@
+.repel{
+  background-image: url(../public/image/abc.jpg);
+  background-size: cover;
+  height: 65vh;
+  background-repeat: no-repeat;
+  background-position: center; /* Adjust as needed */
+  position: relative;
+
+}
+.topimg{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center the image */
+  color: azure;
+}
+.imgbtn{
+  margin: auto;
+}
+
+.card{
+  width:75%
+}
+.card-img-top{
+  height: 50vh;
+}
